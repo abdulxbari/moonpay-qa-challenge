@@ -2,6 +2,10 @@
     <p><img src="assets/moonpay-logo.svg" width="300" /></p>
 </div>
 
-# Takehome Test (QA)
+# Take Home Test
 
-Your goal is to define test scenarios and implement automated test cases on the [Stripe Checkout demo](https://checkout.stripe.dev/preview). We're interested in testing the checkout flow running in the iframe, not the demo link generator.
+The system under test the [Stripe Checkout](https://checkout.stripe.dev/preview). Your goal is to test the checkout flow within the iframe.
+
+1. Explain your test approach (e.g. test types, techniques, tools)
+2. Identify which scenarios you feel are important to test
+3. Automate the scenarios you consider essential and why
