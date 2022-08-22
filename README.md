@@ -9,3 +9,5 @@ The system under test the [Stripe Checkout](https://checkout.stripe.dev/preview)
 1. Explain your test approach (e.g. test types, techniques, tools)
 2. Identify which scenarios you feel are important to test
 3. Automate the scenarios you consider essential and why
+
+P.S: Be careful not to include any PII (Personal Identifiable Information) so that we can blind review your submission.
