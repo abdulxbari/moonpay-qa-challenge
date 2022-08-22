@@ -10,4 +10,4 @@ The system under test the [Stripe Checkout](https://checkout.stripe.dev/preview)
 2. Identify which scenarios you feel are important to test
 3. Automate the scenarios you consider essential and why
 
-P.S: Be careful not to include any PII (Personal Identifiable Information) so that we can blind review your submission.
+_P.S: Please don't include any PII (Personal Identifiable Information) so that we can blind review your submission._
